@@ -4,7 +4,7 @@ int main() {
     printf("Enter two numbers: ");
     scanf("%lf %lf", &a, &b);  
  
-    // Calculating product
+    // changes by venkata
     product = a * b;
 
     // %.2lf displays number up to 2 decimal point
